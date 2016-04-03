@@ -1,0 +1,19 @@
+{
+  "name": "pratt-generator",
+  "version": "0.0.1",
+  "description": "A Pratt parser generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtward/pratt-generator.git"
+  },
+  "author": "James Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtward/pratt-generator/issues"
+  },
+  "homepage": "https://github.com/jtward/pratt-generator#readme"
+}
